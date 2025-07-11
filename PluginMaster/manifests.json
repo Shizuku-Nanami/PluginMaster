@@ -109,7 +109,7 @@
     "Author": "离披&ウマ娘.攻略.tools",
     "InternalName": "SkillEffectPlugin",
     "Name": "显示技能期望收益",
-    "Description": "没有考虑边际效应，仅供参考",
+    "Description": "(仍在开发中)没有考虑边际效应，仅供参考",
     "Changelog": "",
     "Version": "1.0.0",
     "Dependencies": [],
