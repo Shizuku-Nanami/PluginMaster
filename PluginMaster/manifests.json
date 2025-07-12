@@ -9,7 +9,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/AIRedirector",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/AIRedirector/releases/latest/download/AIRedirector.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/AIRedirector/releases/latest/download/AIRedirector.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -22,7 +22,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/EventLoggerPlugin",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/EventLoggerPlugin/releases/latest/download/EventLoggerPlugin.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/EventLoggerPlugin/releases/latest/download/EventLoggerPlugin.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -35,7 +35,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/EventResponseAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/EventResponseAnalyzer/releases/latest/download/EventResponseAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/EventResponseAnalyzer/releases/latest/download/EventResponseAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -48,7 +48,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/LegendScenarioAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/LegendScenarioAnalyzer/releases/latest/download/LegendScenarioAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/LegendScenarioAnalyzer/releases/latest/download/LegendScenarioAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -61,7 +61,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/Notifications",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/Notifications/releases/latest/download/Notifications.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/Notifications/releases/latest/download/Notifications.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -74,7 +74,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/OldScenarioAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/OldScenarioAnalyzer/releases/latest/download/OldScenarioAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/OldScenarioAnalyzer/releases/latest/download/OldScenarioAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -87,7 +87,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/RaceAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/RaceAnalyzer/releases/latest/download/RaceAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/RaceAnalyzer/releases/latest/download/RaceAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -102,7 +102,7 @@
     ],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/SendGameStatusPlugin",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/SendGameStatusPlugin/releases/latest/download/SendGameStatusPlugin.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/SendGameStatusPlugin/releases/latest/download/SendGameStatusPlugin.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -115,7 +115,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/SkillEffectPlugin",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/SkillEffectPlugin/releases/latest/download/SkillEffectPlugin.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/SkillEffectPlugin/releases/latest/download/SkillEffectPlugin.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -128,7 +128,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/SkillTipsResponseAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/SkillTipsResponseAnalyzer/releases/latest/download/SkillTipsResponseAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/SkillTipsResponseAnalyzer/releases/latest/download/SkillTipsResponseAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -141,7 +141,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/TeamStadiumOpponentListResponseAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/TeamStadiumOpponentListResponseAnalyzer/releases/latest/download/TeamStadiumOpponentListResponseAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/TeamStadiumOpponentListResponseAnalyzer/releases/latest/download/TeamStadiumOpponentListResponseAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -154,7 +154,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/UAFScenarioAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/UAFScenarioAnalyzer/releases/latest/download/UAFScenarioAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/UAFScenarioAnalyzer/releases/latest/download/UAFScenarioAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -167,7 +167,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/WinSaddleAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/WinSaddleAnalyzer/releases/latest/download/WinSaddleAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/WinSaddleAnalyzer/releases/latest/download/WinSaddleAnalyzer.zip",
     "LastUpdate": 1751719983
   },
   {
@@ -180,7 +180,7 @@
     "Dependencies": [],
     "Targets": [],
     "RepositoryUrl": "https://github.com/URA-Plugins/PioneerScenarioAnalyzer",
-    "DownloadUrl": "https://gh.shuise.dev/github.com/URA-Plugins/PioneerScenarioAnalyzer/releases/latest/download/PioneerScenarioAnalyzer.zip",
+    "DownloadUrl": "https://ghproxy.cfd/https://github.com/URA-Plugins/PioneerScenarioAnalyzer/releases/latest/download/PioneerScenarioAnalyzer.zip",
     "LastUpdate": 1751719983
   }
 ]
